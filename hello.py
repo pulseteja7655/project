@@ -1,7 +1,4 @@
-i
-print("hello world")
+print("hello")
 
 
-i
-print("hi")
 i
